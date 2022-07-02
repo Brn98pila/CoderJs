@@ -1,0 +1,10 @@
+* {
+  font-family: 'Roboto', sans-serif; }
+
+.calendario {
+  border: 1px solid blue;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 0 10px; }
